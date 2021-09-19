@@ -1,0 +1,14 @@
+{
+    "name": "jQuery for M5 v1",
+    "alias": "witsec-jquery",
+    "version": 1,
+    "minAppVersion": "5.4.1",
+    "appScript": true,
+    "plugins": [
+        "witsec-jquery-1.11.2",
+        "witsec-jquery-3.5.1",
+        "witsec-jquery-3.6.0"
+    ],
+	"logo":"thumbnail.svg",
+	"description":"If you need jQuery in M5 themes, you can now easily add it yourself. <a href='https://witsec.nl'>Learn more...</a>"
+}
